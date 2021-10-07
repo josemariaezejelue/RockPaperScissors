@@ -9,7 +9,9 @@ The objective of this project was to get familiar with Java and GUI
 I built an interactive appplication that enables the user play the classic Rock-Paper-Scissors game with the Computer
 
 
-<img src="https://imgur.com/a/f3ZcJjs.gif" width="400px">
+## Screenrecord
+![](https://i.postimg.cc/WbNNfpZc/records.gif)
+
 
 ## What I learned
 
